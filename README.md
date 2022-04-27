@@ -71,23 +71,23 @@ To decode, three pixels are read at a time, till the last value is odd, which me
  
 # Workflow:
 ## 1.	Encryption
-**Step 01:** Run the python program. User will land on main page. Click on <ENCRYPT> button
+**Step 01:** Run the python program. User will land on main page. Click on **ENCRYPT** button
 ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/output%20main%20screen%202.PNG)
 
 **Step 02:** The user will land on Encrypt page. 
  ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/Encryption%201.PNG)
 
-**Step 03:** User can select text file which he wants to encrypt by clicking <BROWSE> button
+**Step 03:** User can select text file which he wants to encrypt by clicking **BROWSE** button
   ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/Encryption%202.PNG)
 	
-**Step 04:** Enter Key 1 and Loop Value both should be numeric values and click <ENCRYPT> button. The ciphertext will be displayed in the preview window.
+**Step 04:** Enter Key 1 and Loop Value both should be numeric values and click **ENCRYPT** button. The ciphertext will be displayed in the preview window.
  ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/Encryption%203.PNG)
 
-**Step 05:** Click <BROWSE> button to select an input image in which the user wants to embed the ciphertext 
+**Step 05:** Click **BROWSE** button to select an input image in which the user wants to embed the ciphertext 
 ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/Encryption%204.PNG)
 Selected image will be displayed in preview window. 
 	
-**Step 06:** Enter output image name and file extension and click <ENCRYPT> Button
+**Step 06:** Enter output image name and file extension and click **ENCRYPT** Button
 ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/Encryption%205.PNG)
  
 **The ciphertext will be embedded inside the image and the image is saved in Output folder**
@@ -96,17 +96,17 @@ Selected image will be displayed in preview window.
 
 
 ## 1.	Decryption
-**Step 01:** Run the python program. User will land on main page. Click on <DECRYPT> button
+**Step 01:** Run the python program. User will land on main page. Click on **DECRYPT** button
        
 ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/output%20main%20screen%202.PNG)
 	
 **Step 02:** The user will land on Decryption page.
  ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/Decription%201.png)
 
-**Step 03:** User can select input image from which he wants to extract the Cipher Text by clicking <BROWSE> button
+**Step 03:** User can select input image from which he wants to extract the Cipher Text by clicking **BROWSE** button
  ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/Decription%202.png)
 	
-**Step 04:** Click on <DECRYPT> button to extract Cipher Text from the input image 
+**Step 04:** Click on **DECRYPT** button to extract Cipher Text from the input image 
  ![N|Solid](https://github.com/dojoSarvesh/Cryptography-application-py/blob/main/media/Decription%203.png)
 
 **Step 05:** Enter output file name, Key 1 and Loop value to decrypt the Cipher Text. The Decrypted file will be saved in output folder.
